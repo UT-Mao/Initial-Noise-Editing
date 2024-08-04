@@ -3,7 +3,7 @@
 ## [<a href="https://ut-mao.github.io/swap.github.io/" target="_blank">Project Page</a>] [<a href="https://arxiv.org/abs/2305.03382" target="_blank">Paper</a>]
 
 Refer to our latest work for more discussion about initial noise in diffusion!
-- <a href="https://ut-mao.github.io/noise.github.io/" target="_blank">The Lottery TIcket Hypothesis in Denoising: Towards Semantic Driven Initialization]</a> 
+- <a href="https://ut-mao.github.io/noise.github.io/" target="_blank">The Lottery TIcket Hypothesis in Denoising: Towards Semantic Driven Initialization</a> 
 
 
 ![teaser](./teaser.png)
