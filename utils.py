@@ -367,7 +367,7 @@ class initializer:
             maps_all = self.get_attn(prompt, img)
             maps = [maps_all[i][0] for i in indicies]
             
-        # 找到最低分的block
+        # Low-score block
         bkg_block = rearrange(torch.stack(maps,0).sum(0), 'w h -> (w h)').sort()[1][0]
         
         region_mask = self.generate_region_mask(regions)
