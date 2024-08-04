@@ -2,7 +2,7 @@
 
 ## [<a href="https://ut-mao.github.io/swap.github.io/" target="_blank">Project Page</a>] [<a href="https://arxiv.org/abs/2305.03382" target="_blank">Paper</a>]
 
-![teaser](assets/teaser.png)
+![teaser](./teaser.png)
 
 ## Setup
 
