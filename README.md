@@ -30,10 +30,10 @@ Play with [hands-on](./Hands_on.ipynb) to try our approach right away, refer to 
 
 ## Citation
 ```
-@InProceedings{mao2023guided,
-    author    = {Mao, Jiafeng and Wang, Xueting and Aizawa, Kiyoharu},
-    title     = {Guided Image Synthesis via Initial Image Editing in Diffusion Model},
-    booktitle = {ACM MM},
-    year      = {2023},
+@article{mao2023guided,
+  title={Guided Image Synthesis via Initial Image Editing in Diffusion Model},
+  author={Mao, Jiafeng and Wang, Xueting and Aizawa, Kiyoharu},
+  journal={ACM MM},
+  year={2023}
 }
 ```
